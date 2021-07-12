@@ -45,7 +45,7 @@
 			"patterns": [
 				{
 					"name": "keyword.control.pseudocode",
-					"match": "(?i)\\b(if|else|try|catch|except|output|import|while|for|foreach|loop|return|print|input|set|extends|static|public|private|switch|case|do|end|break|continue)\\b"
+					"match": "(?i)\\b(if|else|try|catch|except|output|import|while|for|foreach|loop|return|print|input|set|extends|static|public|private|switch|case|do|then|end|break|continue)\\b"
 				},
 				{
 					"name": "keyword.operator.logical.pseudocode",
